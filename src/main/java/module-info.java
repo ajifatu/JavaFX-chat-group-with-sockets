@@ -7,4 +7,6 @@ module sn.dev.javafxchatgroupwithsockets {
 
     opens sn.dev.javafxchatgroupwithsockets to javafx.fxml;
     exports sn.dev.javafxchatgroupwithsockets;
+
+    opens sn.dev.javafxchatgroupwithsockets.entity;
 }

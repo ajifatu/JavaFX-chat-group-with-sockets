@@ -1,4 +1,4 @@
-package entity;
+package sn.dev.javafxchatgroupwithsockets.entity;
 
 import javax.persistence.*;
 import java.sql.Date;
